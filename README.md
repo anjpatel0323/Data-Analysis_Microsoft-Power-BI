@@ -10,3 +10,5 @@ The electoral bond consist two dataset.
 1)REMOVE UNWANTED COLS
 
 2)MERGING OF COLS AND FILTERING OF THE DATA
+
+Applying left join to join donar_data and the political_party data.
