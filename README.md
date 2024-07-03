@@ -12,4 +12,5 @@ The electoral bond consist two dataset.
 2)MERGING OF COLS AND FILTERING OF THE DATA
 
 Applying left join to join donar_data and the political_party data.
+
 Adding measures to the table to calculate the average of denominations per political parties.
